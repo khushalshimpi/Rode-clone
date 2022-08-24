@@ -1,6 +1,6 @@
 # **Khushal Shimpi**
 
-## **Project - 17**
+## **Project - 18**
 
 
 ## **Project Title** - Rode Clone 
@@ -28,7 +28,7 @@ Project  built from using
 **&**
 ![HTML](https://img.shields.io/badge/tailwindCss-blue)
 
-[Click Me]() to see the project Demo.
+[Click Me](https://dulcet-squirrel-47abf8.netlify.app/) to see the project Demo.
 
 
 
